@@ -1,1 +1,1 @@
-const offerLink = "https://openinapp.co/8xzi2";
+const offerLink = "https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbUtIT0xfUzVvSFI2T0hXdTR1dEZLcGRXRWN5QXxBQ3Jtc0ttLWk2UVJwd2tEcGUzMzR6V0Rjci1tUXkyNmdtMXp6UWFxZm5oQ2dUX280Tm1QcjFaT2NCZHVINUJyeXdsaHJ3NGo4Q3RfaWw1Y0dJcTZXcWs5RDF0dnpMZFhaNjFUaU5qMVg2V25HNWdSd0Q1RVBhaw&q=https%3A%2F%2Fopeninapp.co%2F8xzi2&html_redirect=1";
